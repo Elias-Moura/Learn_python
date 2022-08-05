@@ -40,24 +40,27 @@ df[np.isinf(df[col_floats]).any(1)]
 idx = df[np.isinf(df[col_floats]).any(1)].index
 df.drop(idx, inplace=True)
 
-df['P/VPA'] = df['P/VPA']/1000
-df['Liquidez Diária'] = df['Liquidez Diária']/10
-df['DividendYield'] = df['DividendYield']/100
-df['DY (3M)Acumulado'] = df['DY (3M)Acumulado']/100
-df['DY (6M)Acumulado'] = df['DY (6M)Acumulado']/100
-df['DY (12M)Acumulado'] = df['DY (12M)Acumulado']/100
-df['DY (3M)Média'] = df['DY (3M)Média']/100
-df['DY (6M)Média'] = df['DY (6M)Média']/100
-df['DY (12M)Média'] = df['DY (12M)Média']/100
-df['DY Ano'] = df['DY Ano']/100
-df['Variação Preço'] = df['Variação Preço']/100
-df['Rentab.Período'] = df['Rentab.Período']/100
-df['Rentab.Acumulada'] = df['Rentab.Acumulada']/100
-df['DYPatrimonial'] = df['DYPatrimonial']/100
-df['VariaçãoPatrimonial'] = df['VariaçãoPatrimonial']/100
-df['Rentab. Patr.no Período'] = df['Rentab. Patr.no Período']/100
-df['Rentab. Patr.Acumulada'] = df['Rentab. Patr.Acumulada']/100
-df['VacânciaFísica'] = df['VacânciaFísica']/100
-df['VacânciaFinanceira'] = df['VacânciaFinanceira']/100
+def arrumar_base100():
+    df['P/VPA'] = df['P/VPA']/1000
+    df['Liquidez Diária'] = df['Liquidez Diária']/10
+    df['DividendYield'] = df['DividendYield']/100
+    df['DY (3M)Acumulado'] = df['DY (3M)Acumulado']/100
+    df['DY (6M)Acumulado'] = df['DY (6M)Acumulado']/100
+    df['DY (12M)Acumulado'] = df['DY (12M)Acumulado']/100
+    df['DY (3M)Média'] = df['DY (3M)Média']/100
+    df['DY (6M)Média'] = df['DY (6M)Média']/100
+    df['DY (12M)Média'] = df['DY (12M)Média']/100
+    df['DY Ano'] = df['DY Ano']/100
+    df['Variação Preço'] = df['Variação Preço']/100
+    df['Rentab.Período'] = df['Rentab.Período']/100
+    df['Rentab.Acumulada'] = df['Rentab.Acumulada']/100
+    df['DYPatrimonial'] = df['DYPatrimonial']/100
+    df['VariaçãoPatrimonial'] = df['VariaçãoPatrimonial']/100
+    df['Rentab. Patr.no Período'] = df['Rentab. Patr.no Período']/100
+    df['Rentab. Patr.Acumulada'] = df['Rentab. Patr.Acumulada']/100
+    df['VacânciaFísica'] = df['VacânciaFísica']/100
+    df['VacânciaFinanceira'] = df['VacânciaFinanceira']/100
 
+arrumar_base100()
+ 
 df.to_excel(f'FIIcoleta {DATA_ATUAL}.xlsx', index = False)

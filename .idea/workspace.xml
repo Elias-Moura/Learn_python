@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c0b3906-76b6-4bb4-a208-6fa8b9a68d20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/Aula5/Aula5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/Aula5/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/aula10/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/aula10/aula10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/aula6/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/aula6/aula6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/aula7/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/aula7/aula7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/aula8/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/aula8/aula8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/aula9/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/aula9/aula9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoOtavio/Laços de repeticao/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Applicativo de login/LoginApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Applicativo de login/LoginApp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/elias_ffggx36/Documents/BotCity/BotCity/SegurosProject",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -58,7 +49,7 @@
       <recent name="C:\Users\elias\OneDrive - autobrtec\Documentos\GitHub\Learn_Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula8">
+  <component name="RunManager" selected="Python.bot">
     <configuration name="Aula5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula6 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoOtavio/aula6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoOtavio/aula10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoOtavio/aula6/aula6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoOtavio/aula10/aula10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoOtavio/Aula6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoOtavio/aula6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\elias_ffggx36\Documents\GitHub\Learn_python\CursoOtavio\Aula6\aula6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoOtavio/aula6/aula6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoOtavio/aula8" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../BotCity/BotCity/SegurosProject/botcotaseg/botcotaseg" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoOtavio/aula8/aula8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../BotCity/BotCity/SegurosProject/botcotaseg/botcotaseg/bot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,9 +157,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aula8" />
+        <item itemvalue="Python.bot" />
+        <item itemvalue="Python.aula10" />
         <item itemvalue="Python.aula7" />
-        <item itemvalue="Python.aula6 (1)" />
         <item itemvalue="Python.aula6" />
         <item itemvalue="Python.Aula5" />
       </list>

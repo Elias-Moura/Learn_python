@@ -11,4 +11,4 @@ s1.add((1,2,3, 'Elias'))
 
 print(s1)
 
-'''Os sets não possuem indice. Então, não podemos acessar os idens da '''
+'''Os sets não possuem indice. Então, não podemos acessar os itens como se fosse uma lista '''

@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c0b3906-76b6-4bb4-a208-6fa8b9a68d20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CursoOtavio/Laços de repeticao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoOtavio/Secao3_Py_Intermediario/funcoes/valores_padrao_func.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Applicativo de login/LoginApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Applicativo de login/LoginApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoOtavio/perguntas_e_respostas_Dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoOtavio/Secao3_Py_Intermediario/Dicionários/perguntas_e_respostas_Dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoOtavio/sets_conjuntos.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoOtavio/Secao3_Py_Intermediario/sets_conjuntos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +46,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\elias_ffggx36\Documents\GitHub\Learn_python\CursoOtavio\Secao3_Py_Intermediario\Dicionários" />
+      <recent name="C:\Users\elias_ffggx36\Documents\GitHub\Learn_python\CursoOtavio\Secao3_Py_Intermediario" />
       <recent name="C:\Users\elias_ffggx36\Documents\GitHub\Learn_python\CursoOtavio\aula9" />
       <recent name="C:\Users\elias\OneDrive - autobrtec\Documentos\GitHub\Learn_Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.valores_padrao_func">
     <configuration name="aula10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,27 +66,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoOtavio/aula10/aula10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="aula6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learn_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoOtavio/aula6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoOtavio/aula6/aula6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,13 +137,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="valores_padrao_func" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoOtavio/Secao3_Py_Intermediario/funcoes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoOtavio/Secao3_Py_Intermediario/funcoes/valores_padrao_func.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.valores_padrao_func" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.bot" />
         <item itemvalue="Python.aula10" />
         <item itemvalue="Python.aula7" />
-        <item itemvalue="Python.aula6" />
       </list>
     </recent_temporary>
   </component>

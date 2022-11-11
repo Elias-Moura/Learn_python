@@ -75,7 +75,8 @@ PALAVRAS_PESADELO = (
     'meningoencefalomielite', 'multidisciplinaridade', 'oftalmotorrinolaringologista', 'otorrinolaringologista',
     'parassimpaticomimético', 'pneumartrorradiografia', 'preterintencionalidade', 'supertuberculinização',
     'transdisciplinaridade', 'traquelangulescapular', 'traquelatloidoccipital', 'ureteropielonefrítico',
-    'ureteropieloneostômico')
+    'ureteropieloneostômico'
+)
 
 palavra_secreta = ''
 letras_acertadas = ''

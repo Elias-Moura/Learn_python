@@ -12,7 +12,10 @@ palavras = [
     'gabriella',
     'azeitona',
     'python',
-    'otorrinolaringologista'
+    'otorrinolaringologista',
+    'inglês',
+    'batata',
+    'churrasco',
 ]
 secreto = choice(palavras)
 digitadas = []

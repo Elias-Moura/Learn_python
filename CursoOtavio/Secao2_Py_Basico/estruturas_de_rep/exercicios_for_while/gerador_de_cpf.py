@@ -22,6 +22,6 @@ for index in range(19):
         if d > 9:                   # Se o digito for > que 9 o valor é 0
             d = 0
         total = 0                   # Zera o total
-        novo_cpf += str(d)          # Concatena o digito gerado no novo cpf
+        novo_cpf += str(d)          # Concatena o digito gerado no novo cpf_enviado_pelo_usuario
 
 print(novo_cpf)

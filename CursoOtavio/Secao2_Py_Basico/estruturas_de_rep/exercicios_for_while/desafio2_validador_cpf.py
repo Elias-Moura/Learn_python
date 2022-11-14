@@ -18,7 +18,7 @@ while True:
         if decrescente == 1:
             break
         soma += int(cpf[idx]) * decrescente
-        # print(cpf[idx], decrescente, soma)
+        # print(cpf_enviado_pelo_usuario[idx], decrescente, resultado)
         decrescente -= 1
 
     digito1 = 11 - (soma % 11)
@@ -34,7 +34,7 @@ while True:
         if decrescente == 1:
             break
         soma += int(cpf[idx]) * decrescente
-        # print(cpf[idx], decrescente, soma)
+        # print(cpf_enviado_pelo_usuario[idx], decrescente, resultado)
         decrescente -= 1
 
     digito2 = 11 - (soma % 11)

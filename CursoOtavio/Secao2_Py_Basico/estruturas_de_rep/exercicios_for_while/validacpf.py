@@ -19,7 +19,7 @@ Digito 1 = 0          #   Digito 2 = 9
 
 # Loop infinito
 while True:
-    # cpf = '16899535009'
+    # cpf_enviado_pelo_usuario = '16899535009'
     cpf = input('Digite um CPF: ')
     novo_cpf = cpf[:-2]                 # Elimina os dois últimos digitos do CPF
     reverso = 10                        # Contador reverso
@@ -40,7 +40,7 @@ while True:
             if d > 9:                   # Se o digito for > que 9 o valor é 0
                 d = 0
             total = 0                   # Zera o total
-            novo_cpf += str(d)          # Concatena o digito gerado no novo cpf
+            novo_cpf += str(d)          # Concatena o digito gerado no novo cpf_enviado_pelo_usuario
 
     # Evita sequencias. Ex.: 11111111111, 00000000000...
     sequencia = novo_cpf == str(novo_cpf[0]) * len(cpf)

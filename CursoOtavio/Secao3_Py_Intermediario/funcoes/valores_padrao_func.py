@@ -11,7 +11,7 @@ Quando for necessário passar um valor padrão para uma função, de preferencia
 utilizar =None a utilizar =0 pois o 0 retorna falso em verificações.
 ex: 
 
-def soma(a, b, c=0)
+def resultado(a, b, c=0)
 if c: #retornará falso e passará pelo bloco sem executar
 
 para evitar esse problema e tornar possíveis as verificações use o None

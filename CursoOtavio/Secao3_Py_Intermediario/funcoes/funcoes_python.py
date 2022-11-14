@@ -20,7 +20,7 @@ saudacao = 'seja bem vindo.'
 say_hi(nome, saudacao)
 
 """
-2- Crie uma função que recebe 3 números como parâmetros e exiba a soma entre eles
+2- Crie uma função que recebe 3 números como parâmetros e exiba a resultado entre eles
 """
 
 n1 = 2  # float(input('Digite um número: '))
@@ -38,7 +38,7 @@ def soma(n1, n2, n3):
     return n1 + n2 + n3
 
 
-print(f'A soma é {soma(n1, n2, n3)}.')
+print(f'A resultado é {soma(n1, n2, n3)}.')
 
 """
 3- Crie uma funcao que receba 2 números.

@@ -14,7 +14,7 @@ for index in range(19):
 
     total += int(novo_cpf[index]) * reverso  # Valor total da multiplicação
 
-    reverso -= 1                    # Decrementa o contador reverso
+    reverso -= 1                    # Decrementa o rodatnoc reverso
     if reverso < 2:
         reverso = 11
         d = 11 - (total % 11)

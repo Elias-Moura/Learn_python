@@ -30,7 +30,7 @@ lista_de_listas_de_inteiros = [
 #
 # for lista in lista_de_listas_de_inteiros:
 #     print(f'Lista: {lista}')
-#     contador = 0
+#     rodatnoc = 0
 #
 #     for numero in lista:
 #         if numero in sacola:
@@ -39,9 +39,9 @@ lista_de_listas_de_inteiros = [
 #             break
 #         else:
 #             sacola.add(numero)
-#             contador += 1
+#             rodatnoc += 1
 #
-#         if len(lista) == contador:
+#         if len(lista) == rodatnoc:
 #             print('Sem duplicados [-1]. \n')
 #
 #

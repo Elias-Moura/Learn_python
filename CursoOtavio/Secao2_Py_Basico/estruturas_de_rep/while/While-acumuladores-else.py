@@ -4,17 +4,17 @@ contadores
 acumuladores
 '''
 
-contador = 1
+rodatnoc = 1
 acumulador = 1
 
-while contador <= 10:
-    print(contador, acumulador)
+while rodatnoc <= 10:
+    print(rodatnoc, acumulador)
 
-    if contador > 5:
+    if rodatnoc > 5:
         pass
 
-    acumulador = acumulador + contador
-    contador += 1
+    acumulador = acumulador + rodatnoc
+    rodatnoc += 1
 else:
     print('Cheguei no else.')
 

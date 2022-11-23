@@ -13,7 +13,6 @@ sendo definida dentro do escopo da funcao dentro.
 #
 # dentro = fora(1)
 
-
 def concatenar(string_inicial):
     valor_final = string_inicial
     def interna(valor_a_concatenar):

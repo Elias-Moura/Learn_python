@@ -20,7 +20,7 @@ class Pessoa:
 
 
 p1 = Pessoa('Elias', 'Moura')
-# p1.nome = 'Elias'
+# p1.nome = 'Elias' Se não existir o dado você pode passar assim <- porém, não é comum.
 # p1.sobrenome = 'Moura'
 
 print(p1.nome, p1.sobrenome)

@@ -19,6 +19,6 @@ print(leão.executar('Banana'))
 Uma varíavel definida dentro de um método não pode ser utilizada em outro método a não ser que você
 utilize o self.nome_do_método/atributo.
 
-A classe sem seu escopo e os métodos também.
+A classe tem seu escopo e os métodos também.
 """
 
